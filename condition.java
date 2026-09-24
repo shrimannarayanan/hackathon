@@ -33,3 +33,6 @@ class condition{
 
 }
 }
+void getdata(){
+    
+}
